@@ -21,13 +21,19 @@ public class Doctor {
     @Column(nullable = false)
     private String name;
 
+    private Integer age;
+
+    private String gender;
+
+    @Column(columnDefinition = "TEXT")
+    private String education;
+
     @Column(nullable = false)
     private String department;
 
     @Column(nullable = false)
     private String role;
 
-    @Column(nullable = false)
     private String email;
 
     private String phone;
@@ -35,7 +41,19 @@ public class Doctor {
     @Column(name = "years_experience")
     private Integer yearsExperience;
 
+    @Column(columnDefinition = "TEXT")
     private String skills;
+
+    @Column(columnDefinition = "TEXT")
+    private String clinicalSkills;
+
+    private String specialization;
+
+    @Column(columnDefinition = "TEXT")
+    private String certificates;
+
+    @Column(columnDefinition = "TEXT")
+    private String degreesWithUniversities;
 
     @Column(name = "salary_band")
     private String salaryBand;
@@ -48,25 +66,57 @@ public class Doctor {
     @Column(columnDefinition = "TEXT")
     private String bio;
 
+    private Double rating;
+
+    @Column(name = "review_count")
+    private Integer reviewCount;
+
+    @Column(columnDefinition = "TEXT")
+    private String reviews;
+
+    private String spokenLanguages;
+
+    private String fee;
+
+    private String workingHospitalName;
+
+    private String photoUrl;
+
     /**
-     * Converts employee data into a rich text document for vector indexing.
+     * Converts doctor data into a rich text document for vector indexing.
      */
     public String toDocument() {
         return String.format(
             "Doctor Profile:\n" +
             "Name: %s\n" +
+            "Age: %s\n" +
+            "Gender: %s\n" +
+            "Education: %s\n" +
             "Department: %s\n" +
             "Role: %s\n" +
             "Email: %s\n" +
             "Phone: %s\n" +
-            "Years of Experience: %d\n" +
+            "Years of Experience: %s\n" +
             "Skills: %s\n" +
+            "Clinical Skills: %s\n" +
+            "Specialization: %s\n" +
+            "Certificates: %s\n" +
+            "Degrees with Universities: %s\n" +
             "Salary Band: %s\n" +
             "Location: %s\n" +
             "Manager: %s\n" +
+            "Rating: %s\n" +
+            "Review Count: %s\n" +
+            "Reviews: %s\n" +
+            "Spoken Languages: %s\n" +
+            "Consultation Fee: %s\n" +
+            "Working Hospital: %s\n" +
+            "Photo URL: %s\n" +
             "Bio: %s",
-            name, department, role, email, phone,
-            yearsExperience, skills, salaryBand, location, managerName, bio
+            name, age, gender, education, department, role, email, phone,
+            yearsExperience, skills, clinicalSkills, specialization, certificates,
+            degreesWithUniversities, salaryBand, location, managerName, rating,
+            reviewCount, reviews, spokenLanguages, fee, workingHospitalName, photoUrl, bio
         );
     }
 }

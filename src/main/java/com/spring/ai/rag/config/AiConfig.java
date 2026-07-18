@@ -1,7 +1,11 @@
 package com.spring.ai.rag.config;
 
-import org.springframework.ai.anthropic.AnthropicChatModel;
+//import org.springframework.ai.anthropic.AnthropicChatModel;
+
 import org.springframework.ai.chat.client.ChatClient;
+import org.springframework.ai.chat.memory.ChatMemory;
+import org.springframework.ai.chat.memory.InMemoryChatMemoryRepository;
+import org.springframework.ai.chat.memory.MessageWindowChatMemory;
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.embedding.EmbeddingModel;
 import org.springframework.ai.vectorstore.SimpleVectorStore;
@@ -22,10 +26,39 @@ public class AiConfig {
         return SimpleVectorStore.builder(embeddingModel).build();
     }
 
+/*    @Bean
+    @Primary
+    @Qualifier("chatModel")
+    public ChatClient chatClient(@Qualifier("bedrockProxyChatModel") ChatModel chatModel) {
+        return ChatClient.builder(chatModel).build();
+    }*/
+
     @Bean
+    public ChatMemory chatMemory() {
+
+        return MessageWindowChatMemory.builder()
+                .chatMemoryRepository(new InMemoryChatMemoryRepository())
+                .maxMessages(20)
+                .build();
+    }
+
+    @Bean
+    @Primary
+    @Qualifier("chatModel")
+    public ChatClient chatClient(ChatClient.Builder builder, ChatMemory chatMemory) {
+        return builder
+                .defaultAdvisors(
+                        org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor
+                                .builder(chatMemory)
+                                .build()
+                )
+                .build();
+    }
+
+/*    @Bean
     @Primary
     @Qualifier("chatModel")
     public ChatClient chatClient(AnthropicChatModel chatModel) {
         return ChatClient.builder(chatModel).build();
-    }
+    }*/
 }

@@ -14,9 +14,12 @@ public interface DoctorRepository extends JpaRepository<Doctor, Long> {
 
     List<Doctor> findByRoleContainingIgnoreCase(String role);
 
+    List<Doctor> findByNameContainingIgnoreCase(String name);
+
     @Query("SELECT DISTINCT e.department FROM Doctor e ORDER BY e.department")
     List<String> findAllDepartments();
 
     @Query("SELECT e FROM Doctor e WHERE e.yearsExperience >= :minYears")
     List<Doctor> findByMinimumExperience(int minYears);
+
 }
