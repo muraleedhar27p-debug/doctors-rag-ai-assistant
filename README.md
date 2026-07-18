@@ -1,8 +1,19 @@
-# Doctor RAG Application — Spring AI + H2 + SimpleVectorStore
+# Doctors RAG AI Assistant — Spring AI + H2 + SimpleVectorStore + Claude + Sonnet-4.5 LLM
 
-A complete Retrieval-Augmented Generation (RAG) application built with **Spring Boot 3.3**, **Spring AI 1.0 GA**, **H2**, **RAG** (relational store), and **SimpleVectorStore** (in-memory vector store). Uses Claude Sonnet as the LLM.
+A complete Retrieval-Augmented Generation (RAG) application built with **Spring Boot 3.3**, **Spring AI 1.0 GA**, **H2** (relational store), and **SimpleVectorStore** (in-memory vector store). Uses Claude Sonnet as the LLM.
 
 ---
+
+<img width="1915" height="1062" alt="image" src="https://github.com/user-attachments/assets/03eac994-db6f-4757-b3f3-7fb73ef1ccd6" />
+
+<img width="1902" height="1057" alt="image" src="https://github.com/user-attachments/assets/aa380098-d3e6-47cb-bcb3-20dd33785266" />
+
+
+<img width="1912" height="1062" alt="image" src="https://github.com/user-attachments/assets/f40c9cb4-d0eb-49a3-a7a0-03b4d6323cff" />
+
+<img width="1912" height="1066" alt="image" src="https://github.com/user-attachments/assets/31810a35-9051-46e5-9954-fb4912b540bf" />
+
+
 
 ## Architecture
 
