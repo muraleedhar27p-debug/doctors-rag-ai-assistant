@@ -1,0 +1,1716 @@
+[
+  {
+    "fullName": "Dr. Robert Choudhury",
+    "age": 41,
+    "experience": "8 years",
+    "gender": "Male",
+    "education": "MD, Columbia University Vagelos College of Physicians and Surgeons; Residency completed at Stanford Health Care",
+    "department": "Internal Medicine",
+    "role": "Hospitalist",
+    "skills": [
+      "Clinical Informatics",
+      "Care Transitions",
+      "Inpatient Medicine",
+      "Diabetes Management"
+    ],
+    "specialization": "Geriatric Medicine",
+    "certificates": [
+      "Patient Safety Officer Certification",
+      "Board Certified in Internal Medicine"
+    ],
+    "degreesWithUniversities": "MD - Columbia University Vagelos College of Physicians and Surgeons; Residency - Stanford Health Care",
+    "ratings": 4.5,
+    "reviews": [
+      "Helped me understand my options without ever feeling pressured.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Took the time to review my full history before making any decisions.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Made me feel heard and never rushed through the appointment.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Highly skilled and confident in their recommendations.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Handled a difficult family conversation with real empathy and professionalism."
+    ],
+    "reviewCount": 495,
+    "phoneNumber": "+1-619-555-3823",
+    "clinicalSkills": [
+      "Inpatient Medicine",
+      "Clinical Informatics",
+      "Care Transitions",
+      "Diabetes Management"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Russian",
+      "Italian",
+      "Vietnamese"
+    ],
+    "currentLocation": "San Diego, CA",
+    "fee": "$150",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Robert+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Aaron Nguyen",
+    "age": 46,
+    "experience": "10 years",
+    "gender": "Male",
+    "education": "MD, USC Keck School of Medicine; Residency completed at Cleveland Clinic",
+    "department": "Neurology",
+    "role": "Chief of Neurology",
+    "skills": [
+      "EEG Interpretation",
+      "Botox Therapy",
+      "EMG/Nerve Conduction Studies",
+      "Lumbar Puncture"
+    ],
+    "specialization": "Neuromuscular Medicine",
+    "certificates": [
+      "NIH Stroke Scale Certified",
+      "Epilepsy Fellowship Certificate"
+    ],
+    "degreesWithUniversities": "MD - USC Keck School of Medicine; Residency - Cleveland Clinic",
+    "ratings": 4.4,
+    "reviews": [
+      "Took the time to review my full history before making any decisions.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Highly skilled and confident in their recommendations.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "The most thorough physical exam I've had in years — very reassuring."
+    ],
+    "reviewCount": 423,
+    "phoneNumber": "+1-619-555-3495",
+    "clinicalSkills": [
+      "EMG/Nerve Conduction Studies",
+      "Botox Therapy",
+      "EEG Interpretation",
+      "Stroke Management",
+      "Lumbar Puncture"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Navajo",
+      "Haitian Creole",
+      "Hindi"
+    ],
+    "currentLocation": "San Diego, CA",
+    "fee": "$150",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Robert+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Natasha Cohen",
+    "age": 59,
+    "experience": "8 years",
+    "gender": "Female",
+    "education": "MD, University of Pennsylvania Perelman School of Medicine; Residency completed at Stanford Health Care",
+    "department": "Emergency Medicine",
+    "role": "Senior Emergency Physician",
+    "skills": [
+      "Wound Management",
+      "POCUS",
+      "ACLS",
+      "Airway Management"
+    ],
+    "specialization": "Trauma Care",
+    "certificates": [
+      "Board Certified in Emergency Medicine",
+      "PALS Certified"
+    ],
+    "degreesWithUniversities": "MD - University of Pennsylvania Perelman School of Medicine; Residency - Stanford Health Care",
+    "ratings": 4.9,
+    "reviews": [
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Highly skilled and confident in their recommendations.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Took the time to review my full history before making any decisions.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "One of the most attentive doctors I've seen — highly recommend."
+    ],
+    "reviewCount": 590,
+    "phoneNumber": "+1-619-555-7308",
+    "clinicalSkills": [
+      "Wound Management",
+      "POCUS",
+      "ACLS",
+      "Trauma Resuscitation",
+      "Airway Management"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Polish"
+    ],
+    "currentLocation": "San Diego, CA",
+    "fee": "$150",
+    "workingHospitalName": "Cedars-Sinai Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Aaron Rosen",
+    "age": 38,
+    "experience": "6 years",
+    "gender": "Male",
+    "education": "MD, NYU Grossman School of Medicine; Residency completed at UCLA Medical Center",
+    "department": "Emergency Medicine",
+    "role": "Senior Emergency Physician",
+    "skills": [
+      "Wound Management",
+      "ACLS",
+      "Airway Management",
+      "POCUS"
+    ],
+    "specialization": "Trauma Care",
+    "certificates": [
+      "PALS Certified",
+      "Board Certified in Emergency Medicine"
+    ],
+    "degreesWithUniversities": "MD - NYU Grossman School of Medicine; Residency - UCLA Medical Center",
+    "ratings": 3.5,
+    "reviews": [
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Took the time to review my full history before making any decisions.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Made me feel heard and never rushed through the appointment.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Highly skilled and confident in their recommendations.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Wait times were minimal and the staff was very professional throughout."
+    ],
+    "reviewCount": 516,
+    "phoneNumber": "+1-323-555-6128",
+    "clinicalSkills": [
+      "Wound Management",
+      "POCUS",
+      "Trauma Resuscitation",
+      "Airway Management"
+    ],
+    "spokenLanguages": [
+      "English"
+    ],
+    "currentLocation": "Los Angeles, CA",
+    "fee": "$400",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Aaron+Rosen.jpg"
+  },
+  {
+    "fullName": "Dr. Diana Ivanov",
+    "age": 61,
+    "experience": "29 years",
+    "gender": "Female",
+    "education": "MD, Washington University School of Medicine in St. Louis; Residency completed at Barnes-Jewish Hospital",
+    "department": "Radiology",
+    "role": "Chief of Radiology",
+    "skills": [
+      "CT Scan",
+      "MRI Interpretation",
+      "AI-Assisted Diagnosis",
+      "Mammography"
+    ],
+    "specialization": "Interventional Radiology",
+    "certificates": [
+      "BI-RADS Certified",
+      "ABR Certification"
+    ],
+    "degreesWithUniversities": "MD - Washington University School of Medicine in St. Louis; Residency - Barnes-Jewish Hospital",
+    "ratings": 4.2,
+    "reviews": [
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Took the time to review my full history before making any decisions.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Highly skilled and confident in their recommendations.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Made me feel heard and never rushed through the appointment."
+    ],
+    "reviewCount": 530,
+    "phoneNumber": "+1-916-555-1273",
+    "clinicalSkills": [
+      "CT Scan",
+      "MRI Interpretation",
+      "Mammography",
+      "Fluoroscopy",
+      "AI-Assisted Diagnosis"
+    ],
+    "spokenLanguages": [
+      "English",
+      "German"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$150",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Diana+Ivanov.jpg"
+  },
+  {
+    "fullName": "Dr. Delia Larsen",
+    "age": 38,
+    "experience": "7 years",
+    "gender": "Female",
+    "education": "MD, UCLA David Geffen School of Medicine; Residency completed at Massachusetts General Hospital",
+    "department": "Pediatrics",
+    "role": "Chief of Pediatrics",
+    "skills": [
+      "Developmental Screening",
+      "Vaccination Programs",
+      "Neonatal Resuscitation",
+      "Asthma Management"
+    ],
+    "specialization": "Developmental Pediatrics",
+    "certificates": [
+      "NRP Certified",
+      "PALS Certified"
+    ],
+    "degreesWithUniversities": "MD - UCLA David Geffen School of Medicine; Residency - Massachusetts General Hospital",
+    "ratings": 4.7,
+    "reviews": [
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Took the time to review my full history before making any decisions.",
+      "Explained my condition clearly and answered every question with patience.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Highly skilled and confident in their recommendations.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "The most thorough physical exam I've had in years — very reassuring."
+    ],
+    "reviewCount": 216,
+    "phoneNumber": "+1-619-555-5179",
+    "clinicalSkills": [
+      "Neonatal Resuscitation",
+      "Asthma Management",
+      "Vaccination Programs",
+      "Developmental Screening"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Russian"
+    ],
+    "currentLocation": "San Diego, CA",
+    "fee": "$200",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Delia+Larsen.jpg"
+  },
+  {
+    "fullName": "Dr. Claire Singh",
+    "age": 50,
+    "experience": "6 years",
+    "gender": "Female",
+    "education": "MD, University of Pennsylvania Perelman School of Medicine; Residency completed at UCLA Medical Center",
+    "department": "Orthopedic Surgery",
+    "role": "Spine Surgeon",
+    "skills": [
+      "Robotic Joint Replacement",
+      "Fracture Repair",
+      "Spinal Fusion",
+      "Arthroscopy"
+    ],
+    "specialization": "Spine Surgery",
+    "certificates": [
+      "Sports Medicine Fellowship Certificate",
+      "Board Certified in Orthopedic Surgery"
+    ],
+    "degreesWithUniversities": "MD - University of Pennsylvania Perelman School of Medicine; Residency - UCLA Medical Center",
+    "ratings": 4.1,
+    "reviews": [
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Took the time to review my full history before making any decisions.",
+      "Highly skilled and confident in their recommendations.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Very knowledgeable and up to date with the latest treatment options."
+    ],
+    "reviewCount": 126,
+    "phoneNumber": "+1-213-555-6276",
+    "clinicalSkills": [
+      "Robotic Joint Replacement",
+      "Arthroscopy",
+      "Fracture Repair",
+      "Spinal Fusion"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Vietnamese"
+    ],
+    "currentLocation": "Los Angeles, CA",
+    "fee": "$225",
+    "workingHospitalName": "Cedars-Sinai Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Grace Chen",
+    "age": 41,
+    "experience": "11 years",
+    "gender": "Female",
+    "education": "MD, Emory University School of Medicine; Residency completed at UCLA Medical Center",
+    "department": "Anesthesiology",
+    "role": "Chief of Anesthesiology",
+    "skills": [
+      "Chronic Pain Procedures",
+      "Perioperative Medicine",
+      "Regional Anesthesia",
+      "Airway Management"
+    ],
+    "specialization": "Pain Management",
+    "certificates": [
+      "Board Certified in Anesthesiology",
+      "Pain Medicine Subspecialty Certificate"
+    ],
+    "degreesWithUniversities": "MD - Emory University School of Medicine; Residency - UCLA Medical Center",
+    "ratings": 3.5,
+    "reviews": [
+      "Consistently responsive to messages and quick to address concerns.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Took the time to review my full history before making any decisions.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Great communicator — broke down complex medical terms into plain language."
+    ],
+    "reviewCount": 99,
+    "phoneNumber": "+1-916-555-3074",
+    "clinicalSkills": [
+      "Chronic Pain Procedures",
+      "Airway Management",
+      "Perioperative Medicine",
+      "Regional Anesthesia"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Spanish",
+      "Hindi",
+      "Haitian Creole"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$200",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Grace+Chen.jpg"
+  },
+  {
+    "fullName": "Dr. Alina Levi",
+    "age": 63,
+    "experience": "19 years",
+    "gender": "Female",
+    "education": "MD, USC Keck School of Medicine; Residency completed at Stanford Health Care",
+    "department": "Radiology",
+    "role": "Chief of Radiology",
+    "skills": [
+      "Mammography",
+      "Fluoroscopy",
+      "CT Scan",
+      "MRI Interpretation"
+    ],
+    "specialization": "Neuroradiology",
+    "certificates": [
+      "ABR Certification",
+      "BI-RADS Certified"
+    ],
+    "degreesWithUniversities": "MD - USC Keck School of Medicine; Residency - Stanford Health Care",
+    "ratings": 4.0,
+    "reviews": [
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Highly skilled and confident in their recommendations.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Took the time to review my full history before making any decisions.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "The most thorough physical exam I've had in years — very reassuring."
+    ],
+    "reviewCount": 282,
+    "phoneNumber": "+1-415-555-2545",
+    "clinicalSkills": [
+      "CT Scan",
+      "MRI Interpretation",
+      "Fluoroscopy",
+      "Mammography"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Arabic",
+      "Italian"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$500",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Alina+Levi.jpg"
+  },
+  {
+    "fullName": "Dr. Wesley Morales",
+    "age": 44,
+    "experience": "13 years",
+    "gender": "Male",
+    "education": "MD, NYU Grossman School of Medicine; Residency completed at Mount Sinai Hospital",
+    "department": "Internal Medicine",
+    "role": "Hospitalist",
+    "skills": [
+      "Diabetes Management",
+      "Clinical Informatics",
+      "Care Transitions",
+      "Inpatient Medicine"
+    ],
+    "specialization": "Geriatric Medicine",
+    "certificates": [
+      "Patient Safety Officer Certification",
+      "Board Certified in Internal Medicine"
+    ],
+    "degreesWithUniversities": "MD - NYU Grossman School of Medicine; Residency - Mount Sinai Hospital",
+    "ratings": 4.3,
+    "reviews": [
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Explained my condition clearly and answered every question with patience.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Highly skilled and confident in their recommendations.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Took the time to review my full history before making any decisions.",
+      "Helped me understand my options without ever feeling pressured.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Friendly, respectful, and clearly passionate about patient care."
+    ],
+    "reviewCount": 307,
+    "phoneNumber": "+1-916-555-3068",
+    "clinicalSkills": [
+      "Diabetes Management",
+      "Clinical Informatics",
+      "Inpatient Medicine",
+      "Care Transitions"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Japanese",
+      "German"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$400",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Wesley+Morales.jpg"
+  },
+  {
+    "fullName": "Dr. Benjamin Delgado",
+    "age": 66,
+    "experience": "16 years",
+    "gender": "Male",
+    "education": "MD, University of Pennsylvania Perelman School of Medicine; Residency completed at Massachusetts General Hospital",
+    "department": "Cardiology",
+    "role": "Chief of Cardiology",
+    "skills": [
+      "ECG Interpretation",
+      "Cardiac MRI",
+      "Pacemaker Implantation",
+      "Angioplasty"
+    ],
+    "specialization": "Interventional Cardiology",
+    "certificates": [
+      "Board Certified in Cardiovascular Disease",
+      "ABIM Cardiology Certification"
+    ],
+    "degreesWithUniversities": "MD - University of Pennsylvania Perelman School of Medicine; Residency - Massachusetts General Hospital",
+    "ratings": 4.3,
+    "reviews": [
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Took the time to review my full history before making any decisions.",
+      "Helped me understand my options without ever feeling pressured."
+    ],
+    "reviewCount": 319,
+    "phoneNumber": "+1-916-555-9408",
+    "clinicalSkills": [
+      "Cardiac MRI",
+      "Pacemaker Implantation",
+      "Echocardiography",
+      "Cardiac Catheterization"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Vietnamese",
+      "Spanish",
+      "Hindi"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$275",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Benjamin+Delgado.jpg"
+  },
+  {
+    "fullName": "Dr. Leo Cohen",
+    "age": 45,
+    "experience": "6 years",
+    "gender": "Male",
+    "education": "MD, University of Pennsylvania Perelman School of Medicine; Residency completed at UCLA Medical Center",
+    "department": "Internal Medicine",
+    "role": "Chief of Hospital Medicine",
+    "skills": [
+      "Care Transitions",
+      "Diabetes Management",
+      "Inpatient Medicine",
+      "Clinical Informatics"
+    ],
+    "specialization": "Geriatric Medicine",
+    "certificates": [
+      "Board Certified in Internal Medicine",
+      "Patient Safety Officer Certification"
+    ],
+    "degreesWithUniversities": "MD - University of Pennsylvania Perelman School of Medicine; Residency - UCLA Medical Center",
+    "ratings": 4.0,
+    "reviews": [
+      "Helped me understand my options without ever feeling pressured.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Highly skilled and confident in their recommendations.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Took the time to review my full history before making any decisions.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline."
+    ],
+    "reviewCount": 85,
+    "phoneNumber": "+1-323-555-4729",
+    "clinicalSkills": [
+      "Care Transitions",
+      "Clinical Informatics",
+      "Diabetes Management",
+      "Inpatient Medicine"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Spanish",
+      "Haitian Creole"
+    ],
+    "currentLocation": "Los Angeles, CA",
+    "fee": "$350",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Leo+Cohen.jpg"
+  },
+  {
+    "fullName": "Dr. Renee Novak",
+    "age": 36,
+    "experience": "6 years",
+    "gender": "Female",
+    "education": "MD, Weill Cornell Medicine; Residency completed at Mount Sinai Hospital",
+    "department": "Cardiology",
+    "role": "Chief of Cardiology",
+    "skills": [
+      "Cardiac MRI",
+      "Cardiac Catheterization",
+      "ECG Interpretation",
+      "Angioplasty"
+    ],
+    "specialization": "Interventional Cardiology",
+    "certificates": [
+      "ACLS Certified",
+      "Board Certified in Cardiovascular Disease"
+    ],
+    "degreesWithUniversities": "MD - Weill Cornell Medicine; Residency - Mount Sinai Hospital",
+    "ratings": 4.4,
+    "reviews": [
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Explained my condition clearly and answered every question with patience.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Highly skilled and confident in their recommendations.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Took the time to review my full history before making any decisions.",
+      "Made me feel heard and never rushed through the appointment."
+    ],
+    "reviewCount": 241,
+    "phoneNumber": "+1-916-555-7829",
+    "clinicalSkills": [
+      "Echocardiography",
+      "Cardiac MRI",
+      "Angioplasty",
+      "ECG Interpretation",
+      "Pacemaker Implantation",
+      "Cardiac Catheterization"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Polish"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$250",
+    "workingHospitalName": "Cedars-Sinai Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Renee+Novak.jpg"
+  },
+  {
+    "fullName": "Dr. Meera Stern",
+    "age": 65,
+    "experience": "5 years",
+    "gender": "Female",
+    "education": "MD, Duke University School of Medicine; Residency completed at Johns Hopkins Hospital",
+    "department": "Psychiatry",
+    "role": "Chair of Psychiatry",
+    "skills": [
+      "Crisis Intervention",
+      "Psychopharmacology",
+      "TMS Therapy",
+      "CBT"
+    ],
+    "specialization": "Mood Disorders",
+    "certificates": [
+      "Addiction Medicine Certification",
+      "Child Psychiatry Fellowship Certificate"
+    ],
+    "degreesWithUniversities": "MD - Duke University School of Medicine; Residency - Johns Hopkins Hospital",
+    "ratings": 4.6,
+    "reviews": [
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Took the time to review my full history before making any decisions.",
+      "Highly skilled and confident in their recommendations.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Consistently responsive to messages and quick to address concerns."
+    ],
+    "reviewCount": 419,
+    "phoneNumber": "+1-213-555-1883",
+    "clinicalSkills": [
+      "TMS Therapy",
+      "Crisis Intervention",
+      "Psychopharmacology",
+      "CBT"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Portuguese",
+      "Tagalog",
+      "Korean"
+    ],
+    "currentLocation": "Los Angeles, CA",
+    "fee": "$275",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Meera+Stern.jpg"
+  },
+  {
+    "fullName": "Dr. Vikram Sanchez",
+    "age": 48,
+    "experience": "10 years",
+    "gender": "Male",
+    "education": "MD, Johns Hopkins University School of Medicine; Residency completed at Johns Hopkins Hospital",
+    "department": "Neurology",
+    "role": "Chief of Neurology",
+    "skills": [
+      "Botox Therapy",
+      "EEG Interpretation",
+      "Lumbar Puncture",
+      "EMG/Nerve Conduction Studies"
+    ],
+    "specialization": "Movement Disorders",
+    "certificates": [
+      "Board Certified in Neurology",
+      "Epilepsy Fellowship Certificate"
+    ],
+    "degreesWithUniversities": "MD - Johns Hopkins University School of Medicine; Residency - Johns Hopkins Hospital",
+    "ratings": 3.6,
+    "reviews": [
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Extremely thorough and took time to explain every detail of my treatment plan."
+    ],
+    "reviewCount": 263,
+    "phoneNumber": "+1-415-555-1624",
+    "clinicalSkills": [
+      "Lumbar Puncture",
+      "Botox Therapy",
+      "EEG Interpretation",
+      "EMG/Nerve Conduction Studies"
+    ],
+    "spokenLanguages": [
+      "English"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$150",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Vikram+Sanchez.jpg"
+  },
+  {
+    "fullName": "Dr. Priya Boateng",
+    "age": 46,
+    "experience": "7 years",
+    "gender": "Female",
+    "education": "MD, University of Michigan Medical School; Residency completed at Duke University Hospital",
+    "department": "Oncology",
+    "role": "Senior Oncologist",
+    "skills": [
+      "Chemotherapy",
+      "Tumor Board Leadership",
+      "Palliative Care",
+      "Immunotherapy"
+    ],
+    "specialization": "Precision Oncology",
+    "certificates": [
+      "Clinical Trials GCP Certified",
+      "Hematology Board Certification"
+    ],
+    "degreesWithUniversities": "MD - University of Michigan Medical School; Residency - Duke University Hospital",
+    "ratings": 5.0,
+    "reviews": [
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Explained my condition clearly and answered every question with patience."
+    ],
+    "reviewCount": 164,
+    "phoneNumber": "+1-916-555-3442",
+    "clinicalSkills": [
+      "Chemotherapy",
+      "Tumor Board Leadership",
+      "Immunotherapy",
+      "Clinical Trials",
+      "Palliative Care"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "Yiddish"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$450",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Priya+Boateng.jpg"
+  },
+  {
+    "fullName": "Dr. David Romano",
+    "age": 47,
+    "experience": "4 years",
+    "gender": "Male",
+    "education": "MD, USC Keck School of Medicine; Residency completed at Johns Hopkins Hospital",
+    "department": "Oncology",
+    "role": "Director of Oncology",
+    "skills": [
+      "Clinical Trials",
+      "Immunotherapy",
+      "Chemotherapy",
+      "Palliative Care"
+    ],
+    "specialization": "Precision Oncology",
+    "certificates": [
+      "Hematology Board Certification",
+      "Clinical Trials GCP Certified"
+    ],
+    "degreesWithUniversities": "MD - USC Keck School of Medicine; Residency - Johns Hopkins Hospital",
+    "ratings": 4.5,
+    "reviews": [
+      "Highly skilled and confident in their recommendations.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Took the time to review my full history before making any decisions.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Great communicator — broke down complex medical terms into plain language."
+    ],
+    "reviewCount": 564,
+    "phoneNumber": "+1-213-555-3373",
+    "clinicalSkills": [
+      "Tumor Board Leadership",
+      "Palliative Care",
+      "Chemotherapy",
+      "Immunotherapy",
+      "Clinical Trials"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Vietnamese",
+      "Haitian Creole"
+    ],
+    "currentLocation": "Los Angeles, CA",
+    "fee": "$200",
+    "workingHospitalName": "Cedars-Sinai Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.David+Romano.jpg"
+  },
+  {
+    "fullName": "Dr. Talia Weiss",
+    "age": 36,
+    "experience": "6 years",
+    "gender": "Female",
+    "education": "MD, Emory University School of Medicine; Residency completed at Cedars-Sinai Medical Center",
+    "department": "Pediatrics",
+    "role": "Chief of Pediatrics",
+    "skills": [
+      "Developmental Screening",
+      "Neonatal Resuscitation",
+      "Vaccination Programs",
+      "Asthma Management"
+    ],
+    "specialization": "Developmental Pediatrics",
+    "certificates": [
+      "NRP Certified",
+      "PALS Certified"
+    ],
+    "degreesWithUniversities": "MD - Emory University School of Medicine; Residency - Cedars-Sinai Medical Center",
+    "ratings": 3.7,
+    "reviews": [
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Took the time to review my full history before making any decisions.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Highly skilled and confident in their recommendations.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Made me feel heard and never rushed through the appointment.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "One of the most attentive doctors I've seen — highly recommend."
+    ],
+    "reviewCount": 325,
+    "phoneNumber": "+1-916-555-4649",
+    "clinicalSkills": [
+      "Vaccination Programs",
+      "Asthma Management",
+      "Developmental Screening",
+      "Neonatal Resuscitation"
+    ],
+    "spokenLanguages": [
+      "English",
+      "French",
+      "Tagalog",
+      "Portuguese"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$175",
+    "workingHospitalName": "Cedars-Sinai Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Talia+Weiss.jpg"
+  },
+  {
+    "fullName": "Dr. Robert Romano",
+    "age": 34,
+    "experience": "3 years",
+    "gender": "Male",
+    "education": "MD, Johns Hopkins University School of Medicine; Residency completed at UCLA Medical Center",
+    "department": "Pediatrics",
+    "role": "Chief of Pediatrics",
+    "skills": [
+      "Neonatal Resuscitation",
+      "Asthma Management",
+      "Vaccination Programs",
+      "Developmental Screening"
+    ],
+    "specialization": "Developmental Pediatrics",
+    "certificates": [
+      "Board Certified in Pediatrics",
+      "PALS Certified"
+    ],
+    "degreesWithUniversities": "MD - Johns Hopkins University School of Medicine; Residency - UCLA Medical Center",
+    "ratings": 4.8,
+    "reviews": [
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Made me feel heard and never rushed through the appointment.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Took the time to review my full history before making any decisions.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Highly skilled and confident in their recommendations.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Explained my condition clearly and answered every question with patience."
+    ],
+    "reviewCount": 265,
+    "phoneNumber": "+1-415-555-5256",
+    "clinicalSkills": [
+      "Neonatal Resuscitation",
+      "Vaccination Programs",
+      "Developmental Screening",
+      "Asthma Management"
+    ],
+    "spokenLanguages": [
+      "English"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$275",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Robert+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Jasmine Choudhury",
+    "age": 45,
+    "experience": "5 years",
+    "gender": "Female",
+    "education": "MD, Vanderbilt University School of Medicine; Residency completed at Mount Sinai Hospital",
+    "department": "Emergency Medicine",
+    "role": "Chair of Emergency Medicine",
+    "skills": [
+      "Trauma Resuscitation",
+      "POCUS",
+      "ACLS",
+      "Wound Management"
+    ],
+    "specialization": "Trauma Care",
+    "certificates": [
+      "PALS Certified",
+      "Board Certified in Emergency Medicine"
+    ],
+    "degreesWithUniversities": "MD - Vanderbilt University School of Medicine; Residency - Mount Sinai Hospital",
+    "ratings": 4.5,
+    "reviews": [
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Took the time to review my full history before making any decisions.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Wait times were minimal and the staff was very professional throughout."
+    ],
+    "reviewCount": 142,
+    "phoneNumber": "+1-415-555-5946",
+    "clinicalSkills": [
+      "ACLS",
+      "Wound Management",
+      "Trauma Resuscitation",
+      "Airway Management"
+    ],
+    "spokenLanguages": [
+      "English"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$500",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpeg"
+  },
+  {
+    "fullName": "Dr. Miriam Sanchez",
+    "age": 69,
+    "experience": "28 years",
+    "gender": "Female",
+    "education": "MD, University of Michigan Medical School; Residency completed at Cedars-Sinai Medical Center",
+    "department": "Neurology",
+    "role": "Neurologist",
+    "skills": [
+      "EEG Interpretation",
+      "Botox Therapy",
+      "EMG/Nerve Conduction Studies",
+      "Stroke Management"
+    ],
+    "specialization": "Movement Disorders",
+    "certificates": [
+      "Epilepsy Fellowship Certificate",
+      "Board Certified in Neurology"
+    ],
+    "degreesWithUniversities": "MD - University of Michigan Medical School; Residency - Cedars-Sinai Medical Center",
+    "ratings": 4.5,
+    "reviews": [
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Helped me understand my options without ever feeling pressured.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Highly skilled and confident in their recommendations.",
+      "Took the time to review my full history before making any decisions.",
+      "One of the most attentive doctors I've seen — highly recommend."
+    ],
+    "reviewCount": 568,
+    "phoneNumber": "+1-323-555-5170",
+    "clinicalSkills": [
+      "EMG/Nerve Conduction Studies",
+      "EEG Interpretation",
+      "Stroke Management",
+      "Botox Therapy",
+      "Lumbar Puncture"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Navajo",
+      "Arabic",
+      "Hindi"
+    ],
+    "currentLocation": "Los Angeles, CA",
+    "fee": "$275",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpeg"
+  },
+  {
+    "fullName": "Dr. Felix Novak",
+    "age": 60,
+    "experience": "29 years",
+    "gender": "Male",
+    "education": "MD, Stanford University School of Medicine; Residency completed at Cedars-Sinai Medical Center",
+    "department": "Anesthesiology",
+    "role": "Chief of Anesthesiology",
+    "skills": [
+      "Chronic Pain Procedures",
+      "Regional Anesthesia",
+      "Perioperative Medicine",
+      "Airway Management"
+    ],
+    "specialization": "Pain Management",
+    "certificates": [
+      "Pain Medicine Subspecialty Certificate",
+      "Board Certified in Anesthesiology"
+    ],
+    "degreesWithUniversities": "MD - Stanford University School of Medicine; Residency - Cedars-Sinai Medical Center",
+    "ratings": 4.1,
+    "reviews": [
+      "Consistently responsive to messages and quick to address concerns.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Took the time to review my full history before making any decisions.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Highly skilled and confident in their recommendations.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Handled a difficult family conversation with real empathy and professionalism."
+    ],
+    "reviewCount": 387,
+    "phoneNumber": "+1-916-555-3338",
+    "clinicalSkills": [
+      "Chronic Pain Procedures",
+      "Airway Management",
+      "Regional Anesthesia",
+      "Perioperative Medicine"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Hindi",
+      "Yiddish",
+      "Navajo"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$300",
+    "workingHospitalName": "Stanford Health Care",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Felix+Novak.jpg"
+  },
+  {
+    "fullName": "Dr. Zara Larsen",
+    "age": 41,
+    "experience": "9 years",
+    "gender": "Female",
+    "education": "MD, NYU Grossman School of Medicine; Residency completed at Mayo Clinic",
+    "department": "Orthopedic Surgery",
+    "role": "Spine Surgeon",
+    "skills": [
+      "Spinal Fusion",
+      "Robotic Joint Replacement",
+      "Fracture Repair",
+      "Arthroscopy"
+    ],
+    "specialization": "Sports Medicine",
+    "certificates": [
+      "Sports Medicine Fellowship Certificate",
+      "Board Certified in Orthopedic Surgery"
+    ],
+    "degreesWithUniversities": "MD - NYU Grossman School of Medicine; Residency - Mayo Clinic",
+    "ratings": 3.6,
+    "reviews": [
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Highly skilled and confident in their recommendations.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle."
+    ],
+    "reviewCount": 398,
+    "phoneNumber": "+1-415-555-6527",
+    "clinicalSkills": [
+      "Arthroscopy",
+      "Spinal Fusion",
+      "Fracture Repair",
+      "Robotic Joint Replacement"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Italian"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$275",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpeg"
+  },
+  {
+    "fullName": "Dr. Wesley Silva",
+    "age": 36,
+    "experience": "4 years",
+    "gender": "Male",
+    "education": "MD, University of Michigan Medical School; Residency completed at Cedars-Sinai Medical Center",
+    "department": "Psychiatry",
+    "role": "Psychiatrist",
+    "skills": [
+      "Crisis Intervention",
+      "Psychopharmacology",
+      "TMS Therapy",
+      "CBT"
+    ],
+    "specialization": "Mood Disorders",
+    "certificates": [
+      "Addiction Medicine Certification",
+      "Child Psychiatry Fellowship Certificate"
+    ],
+    "degreesWithUniversities": "MD - University of Michigan Medical School; Residency - Cedars-Sinai Medical Center",
+    "ratings": 3.8,
+    "reviews": [
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Highly skilled and confident in their recommendations.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Took the time to review my full history before making any decisions.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Helped me understand my options without ever feeling pressured."
+    ],
+    "reviewCount": 205,
+    "phoneNumber": "+1-415-555-8217",
+    "clinicalSkills": [
+      "Crisis Intervention",
+      "Psychopharmacology",
+      "CBT",
+      "TMS Therapy"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Portuguese",
+      "Italian"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$150",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Michael Hayes",
+    "age": 54,
+    "experience": "15 years",
+    "gender": "Male",
+    "education": "MD, Vanderbilt University School of Medicine; Residency completed at Duke University Hospital",
+    "department": "Oncology",
+    "role": "Senior Oncologist",
+    "skills": [
+      "Chemotherapy",
+      "Clinical Trials",
+      "Tumor Board Leadership",
+      "Immunotherapy"
+    ],
+    "specialization": "Precision Oncology",
+    "certificates": [
+      "Clinical Trials GCP Certified",
+      "Hematology Board Certification"
+    ],
+    "degreesWithUniversities": "MD - Vanderbilt University School of Medicine; Residency - Duke University Hospital",
+    "ratings": 4.1,
+    "reviews": [
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Took the time to review my full history before making any decisions.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Great communicator — broke down complex medical terms into plain language."
+    ],
+    "reviewCount": 542,
+    "phoneNumber": "+1-916-555-6521",
+    "clinicalSkills": [
+      "Chemotherapy",
+      "Clinical Trials",
+      "Immunotherapy",
+      "Tumor Board Leadership"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Somali",
+      "Korean",
+      "Vietnamese"
+    ],
+    "currentLocation": "Sacramento, CA",
+    "fee": "$400",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Jasmine+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Lucia Choudhury",
+    "age": 68,
+    "experience": "27 years",
+    "gender": "Female",
+    "education": "MD, Duke University School of Medicine; Residency completed at Cleveland Clinic",
+    "department": "Orthopedic Surgery",
+    "role": "Chief of Orthopedic Surgery",
+    "skills": [
+      "Spinal Fusion",
+      "Robotic Joint Replacement",
+      "Fracture Repair",
+      "Arthroscopy"
+    ],
+    "specialization": "Sports Medicine",
+    "certificates": [
+      "Board Certified in Orthopedic Surgery",
+      "Sports Medicine Fellowship Certificate"
+    ],
+    "degreesWithUniversities": "MD - Duke University School of Medicine; Residency - Cleveland Clinic",
+    "ratings": 4.3,
+    "reviews": [
+      "Made me feel heard and never rushed through the appointment.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Highly skilled and confident in their recommendations.",
+      "Took the time to review my full history before making any decisions.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Explained my condition clearly and answered every question with patience.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Coordinated well with my other specialists and kept me informed at every step."
+    ],
+    "reviewCount": 168,
+    "phoneNumber": "+1-619-555-4830",
+    "clinicalSkills": [
+      "Spinal Fusion",
+      "Fracture Repair",
+      "Robotic Joint Replacement",
+      "Arthroscopy"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Arabic",
+      "Italian",
+      "Hindi"
+    ],
+    "currentLocation": "San Diego, CA",
+    "fee": "$250",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Lucia+Choudhury.jpg"
+  },
+  {
+    "fullName": "Dr. Miriam Kowalski",
+    "age": 38,
+    "experience": "5 years",
+    "gender": "Female",
+    "education": "MD, Yale School of Medicine; Residency completed at Barnes-Jewish Hospital",
+    "department": "Anesthesiology",
+    "role": "Chief of Anesthesiology",
+    "skills": [
+      "Airway Management",
+      "Chronic Pain Procedures",
+      "Perioperative Medicine",
+      "Regional Anesthesia"
+    ],
+    "specialization": "Pain Management",
+    "certificates": [
+      "Board Certified in Anesthesiology",
+      "Pain Medicine Subspecialty Certificate"
+    ],
+    "degreesWithUniversities": "MD - Yale School of Medicine; Residency - Barnes-Jewish Hospital",
+    "ratings": 3.5,
+    "reviews": [
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Took the time to review my full history before making any decisions.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Handled a difficult family conversation with real empathy and professionalism."
+    ],
+    "reviewCount": 469,
+    "phoneNumber": "+1-415-555-8868",
+    "clinicalSkills": [
+      "Chronic Pain Procedures",
+      "Regional Anesthesia",
+      "Airway Management",
+      "Perioperative Medicine"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Bengali",
+      "Somali",
+      "Arabic"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$175",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Miriam+Kowalski.jpg"
+  },
+  {
+    "fullName": "Dr. Natasha Whitfield",
+    "age": 69,
+    "experience": "9 years",
+    "gender": "Female",
+    "education": "MD, Johns Hopkins University School of Medicine; Residency completed at Johns Hopkins Hospital",
+    "department": "Radiology",
+    "role": "Senior Radiologist",
+    "skills": [
+      "Fluoroscopy",
+      "AI-Assisted Diagnosis",
+      "Mammography",
+      "CT Scan"
+    ],
+    "specialization": "Neuroradiology",
+    "certificates": [
+      "BI-RADS Certified",
+      "Board Certified in Radiology"
+    ],
+    "degreesWithUniversities": "MD - Johns Hopkins University School of Medicine; Residency - Johns Hopkins Hospital",
+    "ratings": 3.6,
+    "reviews": [
+      "Consistently responsive to messages and quick to address concerns.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Explained my condition clearly and answered every question with patience.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Highly skilled and confident in their recommendations.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Took the time to review my full history before making any decisions.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Great communicator — broke down complex medical terms into plain language."
+    ],
+    "reviewCount": 196,
+    "phoneNumber": "+1-415-555-2875",
+    "clinicalSkills": [
+      "Fluoroscopy",
+      "CT Scan",
+      "AI-Assisted Diagnosis",
+      "MRI Interpretation"
+    ],
+    "spokenLanguages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$350",
+    "workingHospitalName": "UCLA Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Natasha+Whitfield.jpg"
+  },
+  {
+    "fullName": "Dr. Gregory Rahman",
+    "age": 62,
+    "experience": "30 years",
+    "gender": "Male",
+    "education": "MD, USC Keck School of Medicine; Residency completed at Massachusetts General Hospital",
+    "department": "Cardiology",
+    "role": "Chief of Cardiology",
+    "skills": [
+      "Pacemaker Implantation",
+      "ECG Interpretation",
+      "Cardiac Catheterization",
+      "Angioplasty"
+    ],
+    "specialization": "Interventional Cardiology",
+    "certificates": [
+      "ACLS Certified",
+      "Board Certified in Cardiovascular Disease"
+    ],
+    "degreesWithUniversities": "MD - USC Keck School of Medicine; Residency - Massachusetts General Hospital",
+    "ratings": 3.6,
+    "reviews": [
+      "Very knowledgeable and up to date with the latest treatment options.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Helped me understand my options without ever feeling pressured.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Coordinated well with my other specialists and kept me informed at every step.",
+      "Took the time to review my full history before making any decisions.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "Friendly, respectful, and clearly passionate about patient care."
+    ],
+    "reviewCount": 331,
+    "phoneNumber": "+1-415-555-3641",
+    "clinicalSkills": [
+      "Pacemaker Implantation",
+      "Cardiac Catheterization",
+      "Echocardiography",
+      "Cardiac MRI",
+      "Angioplasty"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Italian",
+      "Portuguese",
+      "Yiddish"
+    ],
+    "currentLocation": "San Francisco, CA",
+    "fee": "$250",
+    "workingHospitalName": "UCSF Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Gregory+Rahman.jpg"
+  },
+  {
+    "fullName": "Dr. Samuel Kaplan",
+    "age": 37,
+    "experience": "6 years",
+    "gender": "Male",
+    "education": "MD, USC Keck School of Medicine; Residency completed at Massachusetts General Hospital",
+    "department": "Psychiatry",
+    "role": "Chair of Psychiatry",
+    "skills": [
+      "TMS Therapy",
+      "CBT",
+      "Psychopharmacology",
+      "Crisis Intervention"
+    ],
+    "specialization": "Mood Disorders",
+    "certificates": [
+      "Child Psychiatry Fellowship Certificate",
+      "Board Certified in Psychiatry"
+    ],
+    "degreesWithUniversities": "MD - USC Keck School of Medicine; Residency - Massachusetts General Hospital",
+    "ratings": 4.2,
+    "reviews": [
+      "Would not hesitate to recommend this doctor to family and friends.",
+      "Extremely thorough and took time to explain every detail of my treatment plan.",
+      "The office staff was efficient and the doctor was punctual and thorough.",
+      "Made me feel heard and never rushed through the appointment.",
+      "Wait times were minimal and the staff was very professional throughout.",
+      "Took the time to review my full history before making any decisions.",
+      "Consistently responsive to messages and quick to address concerns.",
+      "Explained my condition clearly and answered every question with patience.",
+      "Highly skilled and confident in their recommendations.",
+      "Gave me a clear, honest assessment and a realistic treatment timeline.",
+      "One of the most attentive doctors I've seen — highly recommend.",
+      "The most thorough physical exam I've had in years — very reassuring.",
+      "Helped me understand my options without ever feeling pressured.",
+      "Friendly, respectful, and clearly passionate about patient care.",
+      "Handled a difficult family conversation with real empathy and professionalism.",
+      "Compassionate care, and the follow-up after my procedure was excellent.",
+      "Great communicator — broke down complex medical terms into plain language.",
+      "Excellent bedside manner — made a stressful diagnosis much easier to handle.",
+      "Coordinated well with my other specialists and kept me informed at every step."
+    ],
+    "reviewCount": 268,
+    "phoneNumber": "+1-619-555-8087",
+    "clinicalSkills": [
+      "CBT",
+      "TMS Therapy",
+      "Crisis Intervention",
+      "Psychopharmacology"
+    ],
+    "spokenLanguages": [
+      "English",
+      "Somali",
+      "German",
+      "Yiddish"
+    ],
+    "currentLocation": "San Diego, CA",
+    "fee": "$275",
+    "workingHospitalName": "Cedars-Sinai Medical Center",
+    "photoUrl": "https://doctors-photos.s3.us-west-2.amazonaws.com/Dr.Samuel+Kaplan.jpg"
+  }
+]
